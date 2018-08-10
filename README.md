@@ -1,4 +1,4 @@
-#### My Blog：[`zhangmiao.cc`](zhangmiao.cc)
+#### My Blog：[zhangmiao.cc](https://zhangmiao.cc/2018/08/01/Android%E5%9C%86%E8%A7%92%E5%9C%86%E5%BD%A2ImageView/)
 #### 效果预览
 ![](https://ws4.sinaimg.cn/large/006tKfTcly1ftua9ykgs7j30u01hcdit.jpg)
 
